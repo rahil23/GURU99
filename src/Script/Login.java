@@ -8,7 +8,7 @@ import POM.LoginPage_POM;
 public class Login extends DriverInstance {
   @Test
   public void login() {
-	  
+	  // git commmit 12345
 	  LoginPage_POM obj = new LoginPage_POM(driver);
 	  obj.login();
 	  
