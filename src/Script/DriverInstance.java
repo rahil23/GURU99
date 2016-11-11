@@ -17,7 +17,7 @@ public class DriverInstance {
 	  driver = new FirefoxDriver();
 	 
 	  driver.get("http://www.demo.guru99.com/V4/");
-	  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+	  driver.manage().timeouts().implicitlyWait(33, TimeUnit.SECONDS);
 	  driver.manage().window().maximize();
 	  
   }

@@ -15,9 +15,5 @@ public class Login extends DriverInstance {
 	  Assert.assertEquals("Guru99 Bank Manager HomePage", "Guru99 Bank Manager HomePage");
 	  
 	  System.out.println("Test case is passed");
-	  
-	  
-	  
-	  
-  }
+	   }
 }
